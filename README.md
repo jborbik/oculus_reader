@@ -9,6 +9,7 @@ This is the active maintenance fork of the RAIL lab's oculus_reader. This versio
 **Hardware Pledge:** Development for Quest 3 is currently ongoing. I am seeking a hardware pledge for integration testing to ensure a stable release.
 
 **Support the Development:**
+* **GitHub Sponsors:** [Click here to sponsor](https://github.com/sponsors/jborbik)
 *   **PayPal (EUR):** [paypal.me/JBOrbik](https://paypal.me/JBOrbik)
 *   **PayPal (USD):** [paypal.me/JedrzejOrbik](https://paypal.me/JedrzejOrbik)
 
